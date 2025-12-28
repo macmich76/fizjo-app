@@ -1,0 +1,5 @@
+{
+  "name": "Fizjo Studio CP 1-4 ze zdjęciami",
+  "description": "Viewer for rehabilitation plans. Displays structured exercise data without file upload interface.",
+  "requestFramePermissions": []
+}
